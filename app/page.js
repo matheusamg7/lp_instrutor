@@ -5,13 +5,13 @@ export default function Home() {
     <>
       <header className="py-6 md:py-12 pb-4 md:pb-8 text-center relative z-10">
         <div className="container mx-auto px-4 flex flex-col items-center max-w-[800px]">
-          <div className="bg-[#545454] p-4 md:p-6 rounded-xl mb-4 md:mb-6 inline-block shadow-md w-full max-w-[90%] sm:max-w-[420px]">
+          <div className="bg-[#545454] p-3 sm:p-4 md:p-6 rounded-xl mb-4 md:mb-6 inline-block shadow-md max-w-[280px] sm:max-w-[350px] md:max-w-[420px]">
             <Image
               src="/logo_instrutor.svg"
               alt="Instrutor Ideal"
               width={420}
               height={112}
-              className="h-auto w-full max-w-full block"
+              className="h-auto w-full block"
               priority
             />
           </div>
