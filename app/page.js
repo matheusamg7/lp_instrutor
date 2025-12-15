@@ -33,7 +33,7 @@ export default function Home() {
                 Estamos desenvolvendo o <strong>Instrutor Ideal</strong>, uma plataforma criada para ajudar instrutores a ganhar mais visibilidade, transmitir mais confiança ao aluno e organizar toda a rotina em um só lugar.
               </p>
               <p className="mb-6 md:mb-8 leading-relaxed text-grey-dark">
-                Ao se cadastrar, você fica entre os instrutores que terão prioridade e mais exposição quando a plataforma for lançada no novo modelo da CNH.
+                Ao se cadastrar, você fica entre os instrutores que terão prioridade e mais exposição quando a plataforma for lançada.
               </p>
               
               <a
