@@ -51,14 +51,10 @@ export default function Home() {
               href="https://instagram.com/instrutorideal"
               target="_blank"
               rel="noopener noreferrer"
-              className="inline-flex items-center gap-2 text-grey-medium hover:text-orange-primary transition-colors duration-300 text-sm sm:text-base mb-4"
+              className="inline-flex items-center gap-2 text-grey-medium hover:text-orange-primary transition-colors duration-300 text-sm sm:text-base underline"
             >
               Siga @instrutorideal
             </a>
-
-            <p className="text-xs sm:text-sm text-grey-medium italic">
-              Os primeiros instrutores terão prioridade nos testes.
-            </p>
           </section>
 
         </div>
