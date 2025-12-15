@@ -37,12 +37,8 @@ export default function Home() {
                 href="https://forms.gle/9rn3cvrjWCnsWxo57"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="btn-shine block w-full bg-orange-primary text-white font-bold py-3 sm:py-4 px-4 sm:px-6 rounded-xl shadow-lg hover:shadow-2xl hover:scale-[1.02] hover:bg-orange-dark transition-all duration-300 transform flex items-center justify-center gap-2 sm:gap-3 text-base sm:text-lg mb-4"
+                className="btn-shine block w-full bg-orange-primary text-white font-bold py-3 sm:py-4 px-4 sm:px-6 rounded-xl shadow-lg hover:scale-[1.02] hover:bg-orange-dark transition-all duration-300 transform flex items-center justify-center text-base sm:text-lg mb-4"
               >
-                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" className="sm:w-6 sm:h-6 flex-shrink-0">
-                  <path d="M9 11L12 14L22 4" stroke="white" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
-                  <path d="M21 12V19C21 19.5304 20.7893 20.0391 20.4142 20.4142C20.0391 20.7893 19.5304 21 19 21H5C4.46957 21 3.96086 20.7893 3.58579 20.4142C3.21071 20.0391 3 19.5304 3 19V5C3 4.46957 3.21071 3.96086 3.58579 3.58579C3.96086 3.21071 4.46957 3 5 3H16" stroke="white" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
-                </svg>
                 Quero ser um Instrutor Ideal
               </a>
             </div>
