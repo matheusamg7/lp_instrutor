@@ -1,25 +1,7 @@
-import Image from 'next/image';
-
 export default function Home() {
   return (
     <>
-      <header className="py-6 md:py-12 pb-4 md:pb-8 text-center relative z-10">
-        <div className="container mx-auto px-4 flex flex-col items-center max-w-[800px]">
-          <div className="bg-[#545454] p-3 sm:p-4 md:p-6 rounded-xl mb-4 md:mb-6 inline-block shadow-md max-w-[280px] sm:max-w-[350px] md:max-w-[420px]">
-            <Image
-              src="/logo_instrutor.svg"
-              alt="Instrutor Ideal"
-              width={420}
-              height={112}
-              className="h-auto w-full block"
-              priority
-            />
-          </div>
-          <p className="text-base sm:text-lg md:text-xl font-medium text-white tracking-wide italic px-2">A maneira mais segura de aprender a dirigir.</p>
-        </div>
-      </header>
-
-      <main className="flex-1 w-full relative z-10 pb-12 md:pb-20">
+      <main className="flex-1 w-full relative z-10 py-12 md:py-20">
         <div className="container mx-auto px-4 flex flex-col items-center max-w-[600px]">
 
           {/* Single Consolidated Card */}
