@@ -25,12 +25,15 @@ export default function Home() {
           {/* Single Consolidated Card */}
           <section className="bg-white rounded-[20px] p-6 sm:p-8 md:p-10 w-full text-center text-grey-dark shadow-2xl">
             <h1 className="font-extrabold text-xl sm:text-2xl md:text-3xl mb-6 md:mb-8 text-orange-primary leading-tight">
-              Cadastre-se na lista de espera
+              Faça parte dos instrutores em destaque no lançamento
             </h1>
 
             <div className="text-base sm:text-lg mb-6 md:mb-8">
+              <p className="mb-4 leading-relaxed text-grey-dark">
+                Estamos desenvolvendo o <strong>Instrutor Ideal</strong>, uma plataforma criada para ajudar instrutores a ganhar mais visibilidade, transmitir mais confiança ao aluno e organizar toda a rotina em um só lugar.
+              </p>
               <p className="mb-6 md:mb-8 leading-relaxed text-grey-dark">
-                Nossa plataforma está sendo desenhada para que o aluno encontre você, <strong>Instrutor Ideal</strong> de forma rápida e transparente. Se você quer mais visibilidade no novo modelo da CNH, garanta sua vaga.
+                Ao se cadastrar, você fica entre os instrutores que terão prioridade e mais exposição quando a plataforma for lançada no novo modelo da CNH.
               </p>
               
               <a
