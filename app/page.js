@@ -34,7 +34,7 @@ export default function Home() {
               </p>
               
               <div className="bg-gray-50 p-4 sm:p-6 rounded-xl border border-gray-200 text-left mb-6 md:mb-8">
-                <p className="mb-2 text-sm sm:text-base">Envie um e-mail para: <br/><a href="mailto:contrato.instrutorideal@gmail.com" className="text-orange-primary font-bold hover:underline break-all text-sm sm:text-base">contrato.instrutorideal@gmail.com</a></p>
+                <p className="mb-2 text-sm sm:text-base">Envie um e-mail para: <br/><a href="mailto:contato.instrutorideal@gmail.com" className="text-orange-primary font-bold hover:underline break-all text-sm sm:text-base">contato.instrutorideal@gmail.com</a></p>
                 <p className="mb-4 text-sm sm:text-base"><strong>Assunto:</strong> Quero ser Instrutor Ideal</p>
                 <p className="text-xs sm:text-sm text-grey-medium mb-1">No corpo envie:</p>
                 <ul className="text-xs sm:text-sm text-grey-medium list-disc pl-5 space-y-1">
