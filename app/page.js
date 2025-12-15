@@ -37,7 +37,7 @@ export default function Home() {
                 href="https://forms.gle/9rn3cvrjWCnsWxo57"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="block w-full bg-orange-primary text-white font-bold py-3 sm:py-4 px-4 sm:px-6 rounded-xl shadow-lg hover:shadow-2xl hover:scale-[1.02] hover:bg-orange-dark transition-all duration-300 transform flex items-center justify-center gap-2 sm:gap-3 text-base sm:text-lg mb-4"
+                className="btn-shine block w-full bg-orange-primary text-white font-bold py-3 sm:py-4 px-4 sm:px-6 rounded-xl shadow-lg hover:shadow-2xl hover:scale-[1.02] hover:bg-orange-dark transition-all duration-300 transform flex items-center justify-center gap-2 sm:gap-3 text-base sm:text-lg mb-4"
               >
                 <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" className="sm:w-6 sm:h-6 flex-shrink-0">
                   <path d="M9 11L12 14L22 4" stroke="white" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
